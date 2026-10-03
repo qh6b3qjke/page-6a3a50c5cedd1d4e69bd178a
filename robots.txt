@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-aa6dcf55aa.xiaomianw.cn/sitemap.xml
